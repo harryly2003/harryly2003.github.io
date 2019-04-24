@@ -1,4 +1,4 @@
-Jenkinsfile (Declarative Pipeline)
+Jenkinsfile (Declarative myPipe)
 pipeline {
     agent any
 
